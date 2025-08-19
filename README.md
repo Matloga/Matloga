@@ -1,29 +1,21 @@
-Hi, I’m Matloga Tsumbedzo!
 
-Welcome to my GitHub profile! I'm excited to share my journey in the world of software development, with a particular focus on Java Full-Stack development.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/T-man Matloga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matloga Tsumbedzo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsumbedzomatloga@gmail.com) 
 
-About Me
-I'm passionate about coding and technology. My primary interest lies in Java, where I am delving into both front-end and back-end development. Mastering the full stack allows me to understand and contribute to all aspects of an application.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Matloga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Matloga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matloga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Current Learning Journey
-Currently, I am honing my skills in:
-- Java Basics: Understanding core concepts and object-oriented programming.
-- Spring Framework: Exploring Spring Boot and building RESTful services.
-- Front-End Technologies: Learning HTML, CSS, and JavaScript to create dynamic user interfaces.
-- Databases: Gaining knowledge in SQL and ORM tools like Hibernate.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Projects
-I enjoy working on projects that challenge my skills and enhance my learning. Some of my current and upcoming projects include:
-- A personal blog application with user authentication.
-- An e-commerce platform using Spring Boot and React.
-- A real-time chat application to practice WebSocket integration.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Matloga&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-How to Reach Me
-I'm always open to connecting with fellow developers, sharing knowledge, and collaborating on projects! Feel free to reach out to me at:
-- Phone: [0763664740](0751412268)
-- Email: [tsumbedzomatloga@gmail.com]
+---
+[![](https://visitcount.itsvg.in/api?id=Matloga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Let's Connect!
-Follow my GitHub for updates on my projects, or connect with me on [LinkedIn]([(https://www.linkedin.com/in/matloga-tsumbedzo-a44724343/)] to network and share ideas!
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
