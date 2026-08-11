@@ -1,7 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=600&color=10B981&center=true&vCenter=true&width=560&height=70&lines=Hi%2C+I%27m+Tsumbedzo+Matloga%3BSoftware+Engineer%3BJava+%26+Backend+Enthusiast%3BWelcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=600&color=10B981&center=true&vCenter=true&width=560&height=70&lines=Hi%2C+I%27m+Tsumbedzo+Matloga%3BFull+Stack+Developer%3BJava+%26+Backend+Enthusiast%3BWelcome+to+my+GitHub!" />
 
+  [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-10b981?style=for-the-badge&logo=checkmark&logoColor=white)](https://tsumbedzo-portfolio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-tsumbedzo--portfolio.vercel.app-3382ed?style=for-the-badge&logo=vercel&logoColor=white)](https://tsumbedzo-portfolio.vercel.app/)
   [![GitHub Followers](https://img.shields.io/github/followers/Matloga?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://github.com/Matloga)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matloga-tsumbedzo-a44724343)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsumbedzomatloga@gmail.com)
@@ -12,12 +14,14 @@
 
 ## 👨‍💻 About Me
 
-> As a Software Engineer with a passion for Java, I dedicate myself to mastering object-oriented design, data structures, and backend development. I thrive on building scalable, reliable, and efficient enterprise systems — backed by a strong foundation in Computer Science and Mathematical Sciences.
+> I am a software engineer with expertise in Java, object-oriented design, and backend development. I am skilled in building scalable applications, debugging, and contributing to agile teams. My dedication is to writing clean, efficient, and maintainable code while continuously expanding my knowledge of modern software engineering practices.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Location-Gauteng%2C%20South%20Africa-10b981?style=for-the-badge&labelColor=0f172a" alt="Location" />
-  <img src="https://img.shields.io/badge/🎓%20Focus-Computer%20Science%20%26%20Maths-a855f7?style=for-the-badge&labelColor=0f172a" alt="Focus" />
-  <img src="https://img.shields.io/badge/💼%20Experience-Backend%20%26%20AWS-3382ed?style=for-the-badge&labelColor=0f172a" alt="Experience" />
+  <img src="https://img.shields.io/badge/💼%20Experience-1%2B%20Years-10b981?style=for-the-badge&labelColor=0f172a" alt="Experience" />
+  <img src="https://img.shields.io/badge/🎓%20BSc-Mathematical%20Sciences-a855f7?style=for-the-badge&labelColor=0f172a" alt="BSc" />
+  <img src="https://img.shields.io/badge/🎓%20BSc%20Hons-Computer%20Science-3382ed?style=for-the-badge&labelColor=0f172a" alt="BSc Honours" />
+  <img src="https://img.shields.io/badge/📍%20Location-Fourways%2C%20Gauteng-10b981?style=for-the-badge&labelColor=0f172a" alt="Location" />
+  <img src="https://img.shields.io/badge/📞-0763664740-0A66C2?style=for-the-badge&labelColor=0f172a" alt="Phone" />
 </p>
 
 ---
@@ -28,7 +32,7 @@
 
 - 🏢 **Real-World Experience:** At ITTHYNK Smart Solutions, I contributed to a School Management Dashboard using AWS services like EC2, RDS, S3, and Lambda, ensuring high availability and secure data storage.
 - 🗄️ **Database Integration:** Hands-on experience with MySQL and SQL Server, integrating them with Java to create robust backend solutions.
-- 🧩 **Object-Oriented Programming:** Continuously apply OOP and design principles to write reusable, modular, and clean code.
+- 🧩 **Object-Oriented Programming:** Continuously apply OOP and design patterns to write reusable, modular, and clean code.
 
 ### 💡 What excites me most about Java
 
@@ -41,31 +45,57 @@
 
 ## 🛠️ Tech Stack
 
-### 🧩 Languages & Frameworks
+### ⌨️ Languages
 
 <p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="48" height="48" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="48" height="48" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="48" height="48" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" /></a>
+  <img src="https://img.shields.io/badge/SQL-10b981?style=for-the-badge&labelColor=0f172a" alt="SQL" title="SQL" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Frameworks & Databases
 
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="48" height="48" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="48" height="48" /></a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="48" height="48" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="48" height="48" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="48" height="48" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="48" height="48" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" /></a>
 </p>
 
-### 🛠️ Tools & Design
+### 🛠️ Tools
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="48" height="48" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="48" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="48" height="48" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" /></a>
+  <a href="https://github.com/Matloga" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" title="IntelliJ" width="48" height="48" /></a>
+  <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" width="48" height="48" /></a>
 </p>
+
+### 🧠 Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-10b981?style=for-the-badge&labelColor=0f172a" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-a855f7?style=for-the-badge&labelColor=0f172a" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-3382ed?style=for-the-badge&labelColor=0f172a" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Agile-10b981?style=for-the-badge&labelColor=0f172a" alt="Agile" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issued By |
+|---|---|
+| 🎓 **BSc Honours in Computer Science** | University of Limpopo |
+| ☁️ **AWS Certified SysOps Administrator – Associate** | Amazon Web Services |
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| 🏫 **Computer Science Laboratory Assistant** | University of Limpopo |
+| 🗣️ **Class Representative** | University of Limpopo |
+
+> 🔗 View certificates on my [portfolio](https://tsumbedzo-portfolio.vercel.app/).
 
 ---
 
@@ -133,8 +163,14 @@
   <a href="https://www.github.com/Matloga" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://tsumbedzo-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:tsumbedzomatloga@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://tsumbedzo-portfolio.vercel.app/Tsumbedzo_Matloga_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
