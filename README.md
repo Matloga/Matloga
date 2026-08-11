@@ -15,7 +15,6 @@
 
 - [About Me](#about-me)
 - [Skills](#skills)
-- [Projects](#projects)
 - [Certifications](#certifications)
 - [GitHub Stats](#github-stats)
 - [Contact](#contact)
@@ -65,16 +64,6 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 </p>
 
 **Concepts:** Object-Oriented Programming · Data Structures & Algorithms · Design Patterns · Agile
-
----
-
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | Personal portfolio website | React · Vite · CSS |
-| [**jobapp**](https://github.com/Matloga/jobapp) | Job application tracking application | Java |
-| [**challenge-front-end-live**](https://github.com/Matloga/challenge-front-end-live) | Live front-end coding challenge | JavaScript |
 
 ---
 
