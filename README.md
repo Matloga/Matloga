@@ -1,13 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Tsumbedzo Matloga
+<h1>👋 Hi, I'm Tsumbedzo Matloga</h1>
 
-**Full Stack Developer** · Java & Backend Enthusiast
+<p>
+  <strong>Full Stack Developer</strong> · <em>Java & Backend Enthusiast</em>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Matloga-181717?logo=github&style=flat-square)](https://github.com/Matloga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/matloga-tsumbedzo-a44724343)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tsumbedzo--portfolio.vercel.app-000000?logo=vercel&style=flat-square)](https://tsumbedzo-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-tsumbedzomatloga@gmail.com-EA4335?logo=gmail&style=flat-square)](mailto:tsumbedzomatloga@gmail.com)
+<p>
+  <a href="https://github.com/Matloga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/matloga-tsumbedzo-a44724343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://tsumbedzo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:tsumbedzomatloga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
