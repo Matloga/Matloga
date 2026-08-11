@@ -88,10 +88,10 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 | Project | Description | Tech |
 |---|---|---|
 | [**Todo List App**](https://github.com/Matloga/todo-list-app) | A responsive To-Do List app with CRUD, search, filters, localStorage and dark mode | JavaScript |
-| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | No description provided. | JavaScript |
-| [**Jobapp**](https://github.com/Matloga/jobapp) | No description provided. | Java |
-| [**Challenge Front End Live**](https://github.com/Matloga/challenge-front-end-live) | No description provided. | JavaScript |
-| [**Challengeapp**](https://github.com/Matloga/ChallengeApp) | No description provided. | Java |
+| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | A JavaScript project built by Tsumbedzo Matloga. | JavaScript |
+| [**Jobapp**](https://github.com/Matloga/jobapp) | A Java project built by Tsumbedzo Matloga. | Java |
+| [**Challenge Front End Live**](https://github.com/Matloga/challenge-front-end-live) | React + Vite This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules | JavaScript |
+| [**Challengeapp**](https://github.com/Matloga/ChallengeApp) | A Java project built by Tsumbedzo Matloga. | Java |
 <!-- PROJECTS:END -->
 
 *Automatically updated daily by a GitHub Action.*
