@@ -19,6 +19,7 @@
 
 - [About Me](#about-me)
 - [Skills](#skills)
+- [Tech Stack](#tech-stack)
 - [Certifications](#certifications)
 - [Most Used Languages](#most-used-languages)
 - [Contact](#contact)
@@ -68,6 +69,19 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 </p>
 
 **Concepts:** Object-Oriented Programming · Data Structures & Algorithms · Design Patterns · Agile
+
+---
+
+## Tech Stack
+
+Automatically detected from my repositories:
+
+<p align="center">
+  <img src="./assets/stack-Tsumbedzo_Portfolio.svg" alt="Tsumbedzo Portfolio stack" width="400" />
+  <img src="./assets/stack-jobapp.svg" alt="jobapp stack" width="400" />
+</p>
+
+*Automatically updated daily by a GitHub Action.*
 
 ---
 
