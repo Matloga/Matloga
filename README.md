@@ -20,6 +20,7 @@
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Certifications](#certifications)
+- [Most Used Languages](#most-used-languages)
 - [Contact](#contact)
 
 ---
@@ -78,7 +79,15 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 
 ---
 
+## Most Used Languages
 
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
+</p>
+
+*Automatically updated daily by a GitHub Action.*
+
+---
 
 ## Contact
 
