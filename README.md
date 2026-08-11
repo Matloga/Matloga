@@ -78,8 +78,8 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matloga&show_icons=true&hide=prs,issues&count_private=true&title_color=10b981&text_color=374151&icon_color=3382ed&bg_color=ffffff&hide_border=true" alt="GitHub stats" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matloga&langs_count=6&title_color=10b981&text_color=374151&bg_color=ffffff&hide_border=true&locale=en" alt="Top Languages" width="335" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Matloga&show_icons=true&hide=prs,issues&count_private=true&title_color=10b981&text_color=374151&icon_color=3382ed&bg_color=ffffff&hide_border=true" alt="GitHub stats" width="430" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Matloga&langs_count=6&title_color=10b981&text_color=374151&bg_color=ffffff&hide_border=true&locale=en" alt="Top Languages" width="335" />
 </p>
 
 ---
