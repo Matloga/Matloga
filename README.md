@@ -9,8 +9,7 @@
 <p>
   <a href="https://github.com/Matloga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/matloga-tsumbedzo-a44724343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://tsumbedzo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="mailto:tsumbedzomatloga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tsumbedzo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -18,8 +17,11 @@
 ## Table of Contents
 
 - [About Me](#about-me)
+- [Highlights](#highlights)
 - [Skills](#skills)
+- [Projects](#projects)
 - [Certifications](#certifications)
+- [Currently Learning](#currently-learning)
 - [Most Used Languages](#most-used-languages)
 - [Contact](#contact)
 
@@ -33,6 +35,15 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 - 🎓 **Education:** BSc Mathematical Sciences · BSc Hons Computer Science
 - 📍 **Location:** Fourways, Gauteng, South Africa
 - ✅ **Status:** Open to work
+
+---
+
+## Highlights
+
+- 🏢 **Real-World Experience:** At ITTHYNK Smart Solutions, I contributed to a School Management Dashboard using AWS services like EC2, RDS, S3, and Lambda — ensuring high availability and secure data storage.
+- 🗄️ **Database Integration:** Hands-on experience with MySQL and SQL Server, integrating them with Java to build robust backend solutions.
+- 🧩 **Object-Oriented Programming:** I apply OOP and design patterns to write reusable, modular, and clean code.
+- ⚡ **What excites me about Java:** Powering enterprise-scale solutions with Spring, cloud-ready apps on AWS, and a massive ecosystem for continuous learning.
 
 ---
 
@@ -71,11 +82,34 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 
 ---
 
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**jobapp**](https://github.com/Matloga/jobapp) | Job application tracking application | Java |
+| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | Personal portfolio website | React · Vite |
+| [**todo-list-app**](https://github.com/Matloga/todo-list-app) | To-Do list with CRUD, search, filters, localStorage & dark mode | JavaScript |
+| [**banking-machine**](https://github.com/Matloga/banking-machine) | Banking machine application | Java |
+
+---
+
 ## Certifications
 
-- ☁️ **AWS Certified SysOps Administrator – Associate**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🎓 **BSc Honours in Computer Science**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1zRTLQ9luB_UIp6jRJIfBmaF_MfZS8ze9/view?usp=drive_link"><img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified SysOps Administrator" /></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1lsfO44WSq9RgRhKWZYd0CV7lhR0EHNuy/view?usp=drive_link"><img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" /></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1tsu_748fGVcDXssY8KBmdff0dWjuIYjX/view?usp=drive_link"><img src="https://img.shields.io/badge/BSc%20Honours%20Computer%20Science-10b981?style=for-the-badge" alt="BSc Honours Computer Science" /></a>
+</p>
+
+---
+
+## Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20Java-10b981?style=for-the-badge&labelColor=0f172a" alt="Advanced Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Databases-a855f7?style=for-the-badge&labelColor=0f172a" alt="Databases" />&nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-3382ed?style=for-the-badge&labelColor=0f172a" alt="Cloud Technologies" />
+</p>
 
 ---
 
@@ -100,5 +134,7 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 <div align="center">
 
 *Building scalable systems, one line of code at a time.*
+
+[![Profile views](https://komarev.com/ghpvc/?username=Matloga&style=flat-square&color=3382ed)](https://github.com/Matloga)
 
 </div>
