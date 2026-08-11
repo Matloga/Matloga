@@ -118,7 +118,7 @@
 
 <p align="center">
   <a href="https://github.com/Matloga">
-    <img src="https://github-profile-trophy.vercel.app/?username=Matloga&theme=flat&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matloga&theme=github" alt="Profile Summary" />
   </a>
 </p>
 
@@ -168,9 +168,6 @@
   </a>
   <a href="mailto:tsumbedzomatloga@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tsumbedzo-portfolio.vercel.app/Tsumbedzo_Matloga_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
