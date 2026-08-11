@@ -85,14 +85,13 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 ## Projects
 
 <!-- PROJECTS:START -->
-
 | Project | Description | Tech |
 |---|---|---|
-| [**Jobapp**](https://github.com/Matloga/jobapp) | Job application tracking application | Java |
-| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | Personal portfolio website | React · Vite |
-| [**Todo List App**](https://github.com/Matloga/todo-list-app) | To-Do list with CRUD, search, filters, localStorage & dark mode | JavaScript |
-| [**Banking Machine**](https://github.com/Matloga/banking-machine) | Banking machine application | Java |
-
+| [**Todo List App**](https://github.com/Matloga/todo-list-app) | A responsive To-Do List app with CRUD, search, filters, localStorage and dark mode | JavaScript |
+| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | No description provided. | JavaScript |
+| [**Jobapp**](https://github.com/Matloga/jobapp) | No description provided. | Java |
+| [**Challenge Front End Live**](https://github.com/Matloga/challenge-front-end-live) | No description provided. | JavaScript |
+| [**Challengeapp**](https://github.com/Matloga/ChallengeApp) | No description provided. | Java |
 <!-- PROJECTS:END -->
 
 *Automatically updated daily by a GitHub Action.*
