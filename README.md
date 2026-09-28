@@ -87,11 +87,11 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---|---|---|
+| [**Blog Website**](https://github.com/Matloga/blog-website) | Full-stack blogging platform built with React, Express 5 and Microsoft SQL Server | JavaScript |
+| [**Streamly Video Platform**](https://github.com/Matloga/streamly-video-platform) | Streamly - full-stack video streaming platform. React + Vite frontend, Express + MongoDB backend, with uploads, HTTP range streaming, subscriptions, threaded comments and creator analytics. | JavaScript |
+| [**Real Time Chat Application**](https://github.com/Matloga/real-time-chat-application) | Real-time chat app: React + Express + Socket.IO + SQL Server (Prisma), with JWT auth and WebSocket messaging | JavaScript |
 | [**Iron And Blade Barbershop**](https://github.com/Matloga/iron-and-blade-barbershop) | A HTML project built by Tsumbedzo Matloga. | HTML |
 | [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | A JavaScript project built by Tsumbedzo Matloga. | JavaScript |
-| [**Ecommerce Website**](https://github.com/Matloga/ecommerce-website) | 🛍️ ShopHub — Full-Stack E-Commerce Website A complete, fully functional online shopping platform built from scratch | JavaScript |
-| [**Weather App**](https://github.com/Matloga/weather-app) | Weather App A responsive weather application that displays real-time weather information for any city, powered by the Op... | JavaScript |
-| [**Todo List App**](https://github.com/Matloga/todo-list-app) | A responsive To-Do List app with CRUD, search, filters, localStorage and dark mode | JavaScript |
 <!-- PROJECTS:END -->
 
 *Automatically updated daily by a GitHub Action.*
