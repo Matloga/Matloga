@@ -87,11 +87,11 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---|---|---|
+| [**Expense Tracker**](https://github.com/Matloga/expense-tracker) | Full-stack expense tracker: React + Express + SQL Server. JWT auth, transaction CRUD, filtering, pagination and Recharts analytics. | JavaScript |
+| [**Event Management System**](https://github.com/Matloga/event-management-system) | Full-stack event management system: Express 5 + SQL Server API with React 19 client. Event discovery, registration with waitlists, QR ticketing and door check-in. | JavaScript |
+| [**Social Media Dashboard**](https://github.com/Matloga/social-media-dashboard) | Multi-platform social media analytics dashboard with goal tracking and rule-based insights. React/Vite frontend, Spring Boot backend. | Java |
 | [**Blog Website**](https://github.com/Matloga/blog-website) | Full-stack blogging platform built with React, Express 5 and Microsoft SQL Server | JavaScript |
 | [**Streamly Video Platform**](https://github.com/Matloga/streamly-video-platform) | Streamly - full-stack video streaming platform. React + Vite frontend, Express + MongoDB backend, with uploads, HTTP range streaming, subscriptions, threaded comments and creator analytics. | JavaScript |
-| [**Real Time Chat Application**](https://github.com/Matloga/real-time-chat-application) | Real-time chat app: React + Express + Socket.IO + SQL Server (Prisma), with JWT auth and WebSocket messaging | JavaScript |
-| [**Iron And Blade Barbershop**](https://github.com/Matloga/iron-and-blade-barbershop) | A HTML project built by Tsumbedzo Matloga. | HTML |
-| [**Tsumbedzo Portfolio**](https://github.com/Matloga/Tsumbedzo_Portfolio) | A JavaScript project built by Tsumbedzo Matloga. | JavaScript |
 <!-- PROJECTS:END -->
 
 *Automatically updated daily by a GitHub Action.*
