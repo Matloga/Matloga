@@ -87,11 +87,11 @@ I am a software engineer with expertise in **Java, object-oriented design, and b
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---|---|---|
+| [**Image Gallery**](https://github.com/Matloga/image-gallery) | Responsive image gallery with upload, search, filtering, lightbox and favourites. React 18 + Vite, stored in IndexedDB with client-side WebP compression, EXIF parsing and duplicate detection. | JavaScript |
+| [**Notes App**](https://github.com/Matloga/notes-app) | Local-first notes app with search, categories, pinning, markdown, archive and export. React 19 + Vite. | JavaScript |
 | [**Expense Tracker**](https://github.com/Matloga/expense-tracker) | Full-stack expense tracker: React + Express + SQL Server. JWT auth, transaction CRUD, filtering, pagination and Recharts analytics. | JavaScript |
 | [**Event Management System**](https://github.com/Matloga/event-management-system) | Full-stack event management system: Express 5 + SQL Server API with React 19 client. Event discovery, registration with waitlists, QR ticketing and door check-in. | JavaScript |
 | [**Social Media Dashboard**](https://github.com/Matloga/social-media-dashboard) | Multi-platform social media analytics dashboard with goal tracking and rule-based insights. React/Vite frontend, Spring Boot backend. | Java |
-| [**Blog Website**](https://github.com/Matloga/blog-website) | Full-stack blogging platform built with React, Express 5 and Microsoft SQL Server | JavaScript |
-| [**Streamly Video Platform**](https://github.com/Matloga/streamly-video-platform) | Streamly - full-stack video streaming platform. React + Vite frontend, Express + MongoDB backend, with uploads, HTTP range streaming, subscriptions, threaded comments and creator analytics. | JavaScript |
 <!-- PROJECTS:END -->
 
 *Automatically updated daily by a GitHub Action.*
